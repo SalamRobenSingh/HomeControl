@@ -1,0 +1,33 @@
+.link-icon {
+    display: inline-block;
+    cursor: pointer;
+    width: 6rem;
+    border-radius: 50%;
+}
+
+.iot {
+    text-align: center;
+}
+
+.name {
+    background: #616161;
+    border-radius: 20px;
+    padding: 3px 14px;
+    color: white;
+    font-size: .7rem;
+    font-weight: 600;
+}
+
+.status {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.info-card {
+    cursor: pointer;
+}
+
+.rounded-circle {
+    border: 3px solid;
+    box-shadow: inset -1px 2px 8px;
+}

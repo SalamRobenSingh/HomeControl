@@ -1,0 +1,1 @@
+json-server --watch "G:/React Project/json-server/login.json" --port 3300
